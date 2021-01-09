@@ -22,7 +22,7 @@ public class StringOccurence {
 	        String str = "AA";
 	 
 	        int count = countMatches(text, str);
-	        System.out.println(count);
+	       
 	    }
 
 	}
